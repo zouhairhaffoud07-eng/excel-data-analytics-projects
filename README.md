@@ -1,4 +1,4 @@
-Excel-data-analytics-Excel Data Analytics Projects (IBM Coursera)
+  Excel-data-analytics-Excel Data Analytics Projects (IBM Coursera)
 This repository contains Excel projects completed as part of the IBM Data Analytics course. 
 Projects: Using Pivot Tables 
 Objectives:  Format data as a table
